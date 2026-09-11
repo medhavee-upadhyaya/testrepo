@@ -1,5 +1,12 @@
 # testrepo
 
-## Editing the file
+A small public repository for practicing Python and safe Git/GitHub workflows.
 
-It is a markdown file in the repository
+## Contents
+
+- firstpython.py: introductory Python example
+- README.md: project documentation
+
+## Purpose
+
+Use this repository for isolated learning experiments before applying workflow changes to larger projects.
